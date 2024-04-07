@@ -22,7 +22,7 @@ I'm a third year undergraduate student from School of Electronic Information and
 I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com/) from HKU. I was advised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm) from SJTU.
 
 # 📝 Publications 
-
+- Waiting for update.
 
 # 🔥 News
 
@@ -37,4 +37,4 @@ I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Waiting for update.
