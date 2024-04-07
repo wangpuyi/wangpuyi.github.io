@@ -29,7 +29,7 @@ My research interest includes computer vision, computer graphics, machine learni
 
 # 🎖 Honors and Awards
 - *2021&22&23* Zhiyuan Honor Scholarship (￥5000*3, Top 5%). 
-- *2024* Education Development Scholarship （￥5000， rank 1/30）. 
+- *2024* Education Development Scholarship （￥5000, rank 1/30）. 
 
 # 📖 Educations
 - *2021.08 - 2025.06 (excepted)*, Shanghai Jiao Tong University, Shanghai, China. 
