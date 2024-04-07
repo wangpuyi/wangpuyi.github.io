@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a third year undergraduate student from School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com/) from [HKU](https://www.cs.hku.hk/), . I was advised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm) from SJTU.
+I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com/) from HKU, . I was advised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm) from SJTU.
 
 # 📝 Publications 
 
