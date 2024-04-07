@@ -28,7 +28,7 @@ I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com
 
 
 # 🎖 Honors and Awards
-- *2021&22&23* Zhiyuan Honor Scholarship (￥5000*3 Top 5%). 
+- *2021&22&23* Zhiyuan Honor Scholarship (￥5000*3, Top 5%). 
 - *2024* Education Development Scholarship （￥5000， rank 1/30）. 
 
 # 📖 Educations
