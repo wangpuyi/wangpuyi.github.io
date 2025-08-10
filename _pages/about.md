@@ -48,7 +48,7 @@ My research interests include computer vision, computer graphics, and multimodal
 - Awarded the Zhiyuan Honors Bachelor's Degree, June 2025.
 
 # 🎖 Honors and Awards
-- *2021–2023* Zhiyuan Honor Scholarship (RMB 5,000 × 4, Top 5%).
+- *2021–2024* Zhiyuan Honor Scholarship (RMB 5,000 × 4, Top 5%).
 - *2024* Education Development Scholarship (RMB 5,000; rank 1/30).
 - Overseas Study Scholarship (RMB 20,000).
 
