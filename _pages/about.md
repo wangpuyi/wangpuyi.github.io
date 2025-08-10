@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year undergraduate student from School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am very fortunate to be advised by [Prof. Hengshuang Zhao](https://www.XXX.com/) from HKU. I was advised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm) from SJTU.
+I'm a first-year Ph.D. student at The Chinese University of Hong Kong (CUHK), supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to be advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
 
-My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+My research interests include computer vision, computer graphics, and multimodal learning.
 
 # 📝 Publications 
 {% assign pubs = site.data.publications | default: empty %}
@@ -44,16 +44,18 @@ My research interest includes computer vision, computer graphics, machine learni
 {% endif %}
 
 # 🔥 News
-
+- Graduated from SJTU (IEEE Honor Class in Information Engineering); awarded University Outstanding Graduate, June 2025.
+- Awarded the Zhiyuan Honors Bachelor's Degree, June 2025.
 
 # 🎖 Honors and Awards
-- *2021&22&23* Zhiyuan Honor Scholarship (￥5000*3, Top 5%). 
-- *2024* Education Development Scholarship （￥5000, rank 1/30）. 
+- *2021–2023* Zhiyuan Honor Scholarship (RMB 5,000 × 4, Top 5%).
+- *2024* Education Development Scholarship (RMB 5,000; rank 1/30).
+- Overseas Study Scholarship (RMB 20,000).
 
-# 📖 Educations
-- *2021.08 - 2025.06*, Shanghai Jiao Tong University, Shanghai, China. 
-- *2018.09 - 2021.06*, Jinyun High School, Zhejiang, China. 
-
+# 📖 Education
+- *2025.08 – Present*, The Chinese University of Hong Kong, Hong Kong, China.
+- *2021.08 – 2025.06*, Shanghai Jiao Tong University, Shanghai, China.
+- *2018.09 – 2021.06*, Jinyun High School, Zhejiang, China.
 
 # 💻 Internships
 {% assign interns = site.data.internships | default: empty %}
