@@ -53,7 +53,7 @@ My research interests include computer vision, computer graphics, and multimodal
 
 # 📖 Education
 - *2025.08 – Present*, The Chinese University of Hong Kong, Hong Kong, China.
-- *2021.08 – 2025.06*, rank 1/30, Shanghai Jiao Tong University, Shanghai, China.
+- *2021.08 – 2025.06*, *rank 1/30*, Shanghai Jiao Tong University, Shanghai, China.
 - *2018.09 – 2021.06*, Jinyun High School, Zhejiang, China.
 
 # 💻 Internships
