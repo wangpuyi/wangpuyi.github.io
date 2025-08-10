@@ -1,6 +1,5 @@
 - title: "Large Multi-modality Model Assisted AI-Generated Image Quality Assessment"
   authors: "<strong>Puyi Wang</strong>, Wei Sun, Zicheng Zhang, Jun Jia, Yanwei Jiang, Zhichao Zhang, Xiongkuo Min, Guangtao Zhai"
   venue: "ACM Multimedia (ACM MM), 2024"
-  paper_url: "https://arxiv.org/abs/2404.17762"
-  doi: "10.1145/3664647.3681471"
+  pdf_url: "https://arxiv.org/abs/2404.17762"
   code_url: "https://github.com/wangpuyi/MA-AGIQA"
