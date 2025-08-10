@@ -33,7 +33,6 @@ My research interests include computer vision, computer graphics, and multimodal
     <div class="pub-authors">{{ p.authors }}</div>
     <div class="pub-venue">
       {{ p.venue }}
-      {% if p.doi %} · <a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
       {% if p.code_url %} · <a href="{{ p.code_url }}" target="_blank" rel="noopener">Code</a>{% endif %}
       {% if p.pdf_url %} · <a href="{{ p.pdf_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
     </div>
