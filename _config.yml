@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Puyi Wang"
   avatar           : "images/keli.png"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wangpuyi@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=EK8KZP4AAAAJ"
+  email            : "puyi.wang@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
