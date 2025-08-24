@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year Ph.D. student at The Chinese University of Hong Kong (CUHK), supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to be advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
+I'm a first-year Ph.D. student at The Chinese University of Hong Kong (CUHK), supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to work as an intern, advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
 
 My research interests include computer vision, computer graphics, and multimodal learning.
 
