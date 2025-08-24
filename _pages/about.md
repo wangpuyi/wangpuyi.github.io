@@ -66,7 +66,16 @@ My research interests include computer vision, computer graphics, and multimodal
       <strong>{{ i.company }}</strong>
       {% if i.timeline %}<span style="opacity:0.8"> ({{ i.timeline }})</span>{% endif %}
     </div>
-    {% if i.supervisor %}<div class="intern-supervisor">Supervisor: {{ i.supervisor }}</div>{% endif %}
+    {% if i.supervisor %}
+      <div class="intern-supervisor">
+        Supervisor: 
+        {% if i.supervisor_url %}
+          <a href="{{ i.supervisor_url }}" target="_blank" rel="noopener">{{ i.supervisor }}</a>
+        {% else %}
+          {{ i.supervisor }}
+        {% endif %}
+      </div>
+    {% endif %}
     {% if i.project_name and i.project_url %}
       <div class="intern-project">Project: <a href="{{ i.project_url }}" target="_blank" rel="noopener">{{ i.project_name }}</a></div>
     {% endif %}
