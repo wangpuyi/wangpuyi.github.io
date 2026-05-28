@@ -1,3 +1,11 @@
+- title: "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects"
+  authors: "<strong>Puyi Wang</strong>, Yuhao Wang, Linjie Li, Zhengyuan Yang, Kevin Qinghong Lin, Yangguang Li, Yu Cheng"
+  status: "in-submission"
+  paper_url: "https://arxiv.org/abs/2605.19587v1"
+  arxiv_url: "https://arxiv.org/abs/2605.19587v1"
+  project_url: "https://scene-code.github.io/"
+  code_url: "https://github.com/wangpuyi/SceneCode"
+
 - title: "Large Multi-modality Model Assisted AI-Generated Image Quality Assessment"
   authors: "<strong>Puyi Wang</strong>, Wei Sun, Zicheng Zhang, Jun Jia, Yanwei Jiang, Zhichao Zhang, Xiongkuo Min, Guangtao Zhai"
   venue: "ACM Multimedia 2024 (oral)"

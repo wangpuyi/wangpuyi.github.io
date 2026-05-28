@@ -19,9 +19,9 @@ redirect_from:
 
 I'm a first-year Ph.D. student at The Chinese University of Hong Kong (CUHK), supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to work as an intern, advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
 
-My research interests include computer vision, computer graphics, and multimodal learning.
+My research interests include coding agents for 3D objects, scenes, worlds.
 
-# 📝 Publications 
+# 📝 Research
 {% assign pubs = site.data.publications | default: empty %}
 {% if pubs and pubs.size > 0 %}
 <ul class="pubs-list">
@@ -32,8 +32,10 @@ My research interests include computer vision, computer graphics, and multimodal
     </div>
     <div class="pub-authors">{{ p.authors }}</div>
     <div class="pub-venue">
-      {{ p.venue }}
+      {% if p.venue %}{{ p.venue }}{% elsif p.status %}{{ p.status }}{% endif %}
+      {% if p.project_url %} · <a href="{{ p.project_url }}" target="_blank" rel="noopener">Project</a>{% endif %}
       {% if p.code_url %} · <a href="{{ p.code_url }}" target="_blank" rel="noopener">Code</a>{% endif %}
+      {% if p.arxiv_url %} · <a href="{{ p.arxiv_url }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
       {% if p.pdf_url %} · <a href="{{ p.pdf_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
     </div>
   </li>
