@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK), co-supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a> and Prof. <a href="https://www.cse.cuhk.edu.hk/~qdou/" target="_blank" rel="noopener">Qi Dou</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to work as an intern, advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
 
-My research interests include coding agents for 3D objects, scenes, worlds & VLA & WAM.
+<p style="font-size:1.1em; font-weight:600; line-height:1.6;">My research interests include code world model &amp; coding agents for 3D worlds. Welcome for collaboration and internship.</p>
 
 # 📝 Research
 {% assign pubs = site.data.publications | default: empty %}
