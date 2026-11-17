@@ -1,6 +1,5 @@
 - title: "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects"
   authors: "<strong>Puyi Wang</strong>, Yuhao Wang, Linjie Li, Zhengyuan Yang, Kevin Qinghong Lin, Yangguang Li, Yu Cheng"
-  status: "in-submission"
   paper_url: "https://arxiv.org/abs/2605.19587v1"
   arxiv_url: "https://arxiv.org/abs/2605.19587v1"
   project_url: "https://scene-code.github.io/"
@@ -13,3 +12,8 @@
   doi: "10.1145/3664647.3681471"
   code_url: "https://github.com/wangpuyi/MA-AGIQA"
   pdf_url: "https://arxiv.org/abs/2404.17762"
+
+- title: "3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis"
+  authors: "Yuhao Wang, <strong>Puyi Wang</strong>, Linjie Li, Zhengyuan Yang, Kevin Qinghong Lin, Yu Cheng"
+  paper_url: "https://arxiv.org/abs/2606.10478"
+  arxiv_url: "https://arxiv.org/abs/2606.10478"

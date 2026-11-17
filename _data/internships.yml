@@ -1,3 +1,13 @@
+- company: "XPeng"
+  timeline: "2026.09 – Present"
+  project_name: "X-World 1.6"
+  project_url: "https://arxiv.org/abs/2611.00596"
+
+- company: "Shanghai AI Lab"
+  timeline: "2026.05 – 2026.08"
+  project_name: "Matrix-Game 4.0"
+  project_url: "https://arxiv.org/abs/2610.27999v1"
+
 - company: "Skywork AI (Kunlun Inc.)"
   timeline: "2025.02 – 2025.07"
   supervisor: "Yifan Zhang"

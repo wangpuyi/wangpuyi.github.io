@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year Ph.D. student at The Chinese University of Hong Kong (CUHK), supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to work as an intern, advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
+I'm a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK), co-supervised by Prof. <a href="https://ych133.github.io/" target="_blank" rel="noopener">Yu Cheng</a> and Prof. <a href="https://www.cse.cuhk.edu.hk/~qdou/" target="_blank" rel="noopener">Qi Dou</a>. I received my Bachelor's degree in Information Engineering (IEEE Honor Class) from <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a>, advised by <a href="https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm" target="_blank" rel="noopener">Prof. Guangtao Zhai</a>. In the summer of 2024, I was fortunate to work as an intern, advised by <a href="https://hszhao.github.io/" target="_blank" rel="noopener">Prof. Hengshuang Zhao</a> at HKU.
 
-My research interests include coding agents for 3D objects, scenes, worlds.
+My research interests include coding agents for 3D objects, scenes, worlds & VLA & WAM.
 
 # 📝 Research
 {% assign pubs = site.data.publications | default: empty %}
@@ -32,11 +32,12 @@ My research interests include coding agents for 3D objects, scenes, worlds.
     </div>
     <div class="pub-authors">{{ p.authors }}</div>
     <div class="pub-venue">
-      {% if p.venue %}{{ p.venue }}{% elsif p.status %}{{ p.status }}{% endif %}
-      {% if p.project_url %} · <a href="{{ p.project_url }}" target="_blank" rel="noopener">Project</a>{% endif %}
-      {% if p.code_url %} · <a href="{{ p.code_url }}" target="_blank" rel="noopener">Code</a>{% endif %}
-      {% if p.arxiv_url %} · <a href="{{ p.arxiv_url }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
-      {% if p.pdf_url %} · <a href="{{ p.pdf_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      {% assign pub_separator = "" %}
+      {% if p.venue or p.status %}{{ p.venue | default: p.status }}{% assign pub_separator = " · " %}{% endif %}
+      {% if p.project_url %}{{ pub_separator }}<a href="{{ p.project_url }}" target="_blank" rel="noopener">Project</a>{% assign pub_separator = " · " %}{% endif %}
+      {% if p.code_url %}{{ pub_separator }}<a href="{{ p.code_url }}" target="_blank" rel="noopener">Code</a>{% assign pub_separator = " · " %}{% endif %}
+      {% if p.arxiv_url %}{{ pub_separator }}<a href="{{ p.arxiv_url }}" target="_blank" rel="noopener">arXiv</a>{% assign pub_separator = " · " %}{% endif %}
+      {% if p.pdf_url %}{{ pub_separator }}<a href="{{ p.pdf_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
     </div>
   </li>
   {% endfor %}
